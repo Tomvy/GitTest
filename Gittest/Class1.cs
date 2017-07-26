@@ -22,10 +22,7 @@ namespace Gittest
         {
 
         }
-
-        public void Do3()
-        {
-
-        }
     }
 }
+
+
