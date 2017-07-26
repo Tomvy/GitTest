@@ -12,5 +12,10 @@ namespace Gittest
         {
 
         }
+
+        public void Do()
+        {
+
+        }
     }
 }
