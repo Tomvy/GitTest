@@ -18,6 +18,12 @@ namespace Gittest
             int a = 10;
         }
 
+        public void DoDoDoDoDoDo()
+        {
+
+        }
+
+
         public void Do2()
         {
 
