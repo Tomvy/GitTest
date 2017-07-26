@@ -15,6 +15,11 @@ namespace Gittest
 
         public void Do()
         {
+            int a = 10;
+        }
+
+        public void Do2()
+        {
 
         }
 
